@@ -18,7 +18,7 @@ We're using the Dat protocol with Beaker Browser to publish it online and making
 
 ## Usage
 1. In your local folder open list.csv, add/edit your entries. Columns are separated by commas. 
-2. Save file: that's it, the list is automatically updated on the dat and https addresses.
+2. Save file: the list is automatically updated on the dat and https addresses.
 
 ## Example
 
