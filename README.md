@@ -13,13 +13,13 @@ The script is dirty and work in progress, contributions and tips are welcome.
 ## First time install
 1. Download local-list and place it in the folder you want to store the list. 
 We're using the Dat protocol with Beaker Browser to publish it online and making it accessible from other machines.
-2. Download and install [Beaker] (https://beakerbrowser.com).
+2. Download and install [Beaker](https://beakerbrowser.com).
 3. Open Beaker and on the toolbar click > create new > from folder. Pick your folder.
 4. The first you have to add a name and click 'Review' and then 'Publish all'. Then go to 'Settings' and disable preview mode to automatically publish your list from now on.
 
 <img align="center" src=".gif" width="250" height="auto">
 
-5. Optional: if you want the list to be accessible all the time and from any browser you need a https address. You can mirror your dat address with [Hashbase] (https://hashbase.io) quickly and for free.
+5. Optional: if you want the list to be accessible all the time and from any browser you need a https address. You can mirror your dat address with [Hashbase](https://hashbase.io) quickly and for free.
 
 ## Use
 1. In your local folder open list.csv, add/edit your list. Column items need to be separated by commas. 
@@ -38,7 +38,7 @@ https://films.hashbase.io
 - cleaning
 - other templates for .txt and markdown formats.
 - waiting for Beaker to support hyperdb to be able to edit the list remotely and collaborative editing.
-- export [Are.na] (https://are.na)channel to the local list (maybe with @jondashkyle's [Dropout] (https://github.com/jondashkyle/dropout)?)
+- export [Are.na](https://are.na)channel to the local list (maybe with @jondashkyle's [Dropout](https://github.com/jondashkyle/dropout)?)
 
 Contributions are more than welcome
 
