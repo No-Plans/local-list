@@ -38,7 +38,7 @@ https://films.hashbase.io
 - cleaning
 - other templates for .txt and markdown formats.
 - waiting for Beaker to support hyperdb to be able to edit the list remotely and collaborative editing.
-- export [Are.na](https://are.na)channel to the local list (maybe with @jondashkyle's [Dropout](https://github.com/jondashkyle/dropout)?)
+- export [Are.na](https://are.na) channel to the local list (maybe with @jondashkyle's [Dropout](https://github.com/jondashkyle/dropout)?)
 
 Contributions are more than welcome
 
