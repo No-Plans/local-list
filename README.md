@@ -1,7 +1,7 @@
 # Local List
-Honoring the list text file as an indestructible information vector, I'm trying to build the simplest way to update a text file and publish it online with the help of Dat and Beaker Browser. No terminal, no FTP, just write and save. The goal is to use a basic local file for storing knowledge and automatically distribute it as p2p backup.  
+Honoring the list text file as an indestructible information vector, I'm trying to build the simplest way to update a text file and publish it online with the help of Dat and Beaker Browser. No terminal, no FTP, just write and save. The goal is to use a basic local file for storing knowledge and automatically distribute via p2p and https for backup and access.  
 
-<img src="https://github.com/No-Plans/local-list/blob/master/examples/save-list.gif?raw=true" width="650" height="auto">
+<img src="https://github.com/No-Plans/local-list/blob/master/examples/save-list.gif?raw=true" min-width ="300" max-width="800" height="auto">
 
 Cloud services change business model, favorite Netflix movies and streaming tracks disappear, Filmstruck closes, Amazon wishlist serves you ads, Beaker could be gone. Keeping a few copies of a file is a safe practise.
 
