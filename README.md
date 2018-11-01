@@ -5,7 +5,7 @@ This version has multiple columns and the list can be ordered by column entries.
 
 Cloud services change business model, favorite Netflix movies and streaming tracks disappear, Filmstruck closes, Amazon wishlist serves you ads, Beaker could die. Keeping a few copies of a file is a safe excercise.
 
-<img align="center" src=".gif" width="250" height="auto">
+<img align="center" src="https://d2w9rnfcy7mm78.cloudfront.net/2966786/original_f632997bf30507a88a0218eb23e9561d.gif" width="250" height="auto">
 
 ## Release note
 The script is dirty and work in progress, contributions and tips are welcome.
@@ -17,7 +17,7 @@ We're using the Dat protocol with Beaker Browser to publish it online and making
 3. Open Beaker and on the toolbar click > create new > from folder. Pick your folder.
 4. The first you have to add a name and click 'Review' and then 'Publish all'. Then go to 'Settings' and disable preview mode to automatically publish your list from now on.
 
-<img align="center" src=".gif" width="250" height="auto">
+<img align="center" src="/" width="400" height="auto">
 
 5. Optional: if you want the list to be accessible all the time and from any browser you need a https address. You can mirror your dat address with [Hashbase](https://hashbase.io) quickly and for free.
 
