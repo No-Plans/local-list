@@ -30,8 +30,8 @@ We're using the Dat protocol with Beaker Browser to publish it online and making
 ## Example
 
 Films list:
-dat://1145fb9767abe0e3f4796c504cf6f230a1abfa38dedcfc0cad8f256f4d78cfd9
-https://films.hashbase.io
+- dat://1145fb9767abe0e3f4796c504cf6f230a1abfa38dedcfc0cad8f256f4d78cfd9
+- https://films.hashbase.io
 
 
 ## Next steps / wishlist
