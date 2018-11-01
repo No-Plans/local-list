@@ -1,0 +1,231 @@
+::-moz-selection {
+    background: white;
+}
+
+::selection {
+    background: white;
+}
+
+body {
+	font-family: system-ui;
+	font-size: 15px;
+  padding: 1.5rem;
+  margin: 0;
+  background: #fefefe;
+}
+
+p {
+	margin-top: 0;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+}
+
+a:hover {
+	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+	background: yellow;
+}
+
+.info {
+	z-index: 9;
+}
+
+.info .button, .info .close {
+	position: fixed;
+	bottom: 1em;
+	right: 1em;
+	width: 1em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.info .button:hover, .info .close:hover {
+	background: yellow;
+	cursor: pointer;
+}
+
+.info .content {
+	display: none;
+	max-width: 90%;
+	height: 100%;
+}
+
+.info .close {
+	display: none;
+}
+
+.info.open {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background: #fefefe;
+	padding: 1.5rem;
+}
+
+.info.open .button {
+	display: none;
+	background-color: white;
+}
+
+.info.open .content, .info.open .close {
+	display: block;
+}
+
+table, thead, tbody, tr, th, td {
+	width: 100%;
+	text-align: left;
+}
+
+tr {
+	height: 1.4em;
+}
+
+thead tr {
+	height: 2em;
+	vertical-align: top;
+}
+
+thead th:hover span{
+	cursor: pointer;
+	background: yellow;
+}
+
+tbody tr:hover {
+	background: #f1f1f1;
+}
+
+th, td {
+	padding: 0 0.1em;
+}
+
+td {
+	white-space: nowrap; 
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+thead th span:before {
+	opacity: 0.3;
+	font-family: monospace;
+	display: inline-block;
+	content:'˃';
+	margin: 0 0.2em 0 -0.8em;
+}
+
+thead th.sorting-asc span:before {
+	opacity: 1;
+	content:'˅';
+}
+
+thead th.sorting-desc span:before {
+	opacity: 1;
+	content:'˄';
+}
+
+.one {
+	width: 60%;
+}
+
+.two {
+	width: 6%;
+}
+
+.three {
+	width: auto;
+}
+
+.four {
+	width: 4%;
+}
+
+tbody .four {
+	visibility: hidden;
+}
+
+.forget, .crime, .horrible, .terrible, .meh, .ok {
+	color: #c7c7c7;
+}
+
+/*
+.good, .verygood, .premium {
+	color: #1358ff;
+} */
+
+@media screen and (min-width: 1501px) {
+  body, html { 
+    font-size: 16px;
+  }
+
+	.one {
+		width: 20%;
+	} 
+}
+
+@media screen and (max-width: 1500px) {
+  body, html { 
+    font-size: 15px;
+  }
+
+	.one {
+		width: 20%;
+	} 
+
+	.two {
+		width: 5%;
+	}
+}
+
+@media screen and (max-width: 1000px) {
+  body, html { 
+    font-size: 14px;
+  }
+
+	.one {
+		width: 50%;
+	} 
+
+	.two {
+		width: 10%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+  body, html { 
+    font-size: 12px;
+  }
+
+	.one {
+		width: 50%;
+	} 
+
+	.two {
+		width: 10%;
+	}
+}
+
+@media screen and (max-width: 500px) {
+  body, html { 
+    font-size: 10px;
+  }
+
+	.one {
+		width: 50%;
+	} 
+
+	.two {
+		width: 10%;
+	}
+
+	.four {
+		display: none;
+	}
+}
+
+
