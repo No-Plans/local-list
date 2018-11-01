@@ -10,7 +10,6 @@ The script is dirty and work in progress, contributions and tips are welcome.
 
 ## First time install
 1. Download local-list and place it in the folder you want to store the list. 
-
 We're using the Dat protocol with Beaker to publish it online and making it accessible from other machines.
 2. Download and install Beaker.
 3. Open Beaker and on the toolbar click > create new > from folder. Pick your folder.
