@@ -5,7 +5,7 @@ This version has multiple columns and the list can be ordered by column entries.
 
 Cloud services change business model, favorite Netflix movies and streaming tracks disappear, Filmstruck closes, Amazon wishlist serves you ads, Beaker could die. Keeping a few copies of a file is a safe excercise.
 
-<img align="center" src="https://d2w9rnfcy7mm78.cloudfront.net/2966786/original_f632997bf30507a88a0218eb23e9561d.gif" width="250" height="auto">
+<img src="https://github.com/No-Plans/local-list/blob/master/examples/save-list.gif?raw=true" width="600" height="auto">
 
 ## Release note
 The script is dirty and work in progress, contributions and tips are welcome.
@@ -25,7 +25,7 @@ We're using the Dat protocol with Beaker Browser to publish it online and making
 1. In your local folder open list.csv, add/edit your list. Column items need to be separated by commas. 
 2. Save: that's it, the list is automatically updated on the dat and https addresses.
 
-<img align="center" src=".gif" width="250" height="auto">
+<img align="center" src=".gif" width="400" height="auto">
 
 ## Example
 
