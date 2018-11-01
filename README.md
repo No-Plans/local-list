@@ -3,10 +3,10 @@ Honoring the list text file as an indestructible information format, I'm trying 
 
 <img src="https://github.com/No-Plans/local-list/blob/master/examples/save-list.gif?raw=true" min-width ="300" max-width="800" height="auto">
 
-Cloud services change business model, favorite Netflix movies and streaming tracks disappear, Filmstruck closes, Amazon wishlist serves you ads, Beaker could be gone. Keeping a few copies of a file is a safe practice.
+Cloud services change business model, favorite Netflix movies and streaming tracks disappear, Filmstruck closes, Amazon wishlist serves you ads, Beaker could be gone. Updating a few copies of local text files over time is a healthy practice.
 
 ## Release note
-The script is dirty, contributions and tips are welcome.
+The structure and scripts are rough, contributions and tips are welcome.
 
 ## First time install
 1. Download the folder in your machine where you want to store the list. 
@@ -30,5 +30,5 @@ Films:
 ## Next steps / wishlist
 - [ ] cleaning
 - [ ] templates for .txt and markdown.
-- [ ] waiting for Beaker to support hyperdb to be able to edit the list remotely and edit collaboratively.
+- [ ] waiting for Beaker to support Hyperdb to be able to edit the list remotely and edit collaboratively.
 - [ ] export [Are.na](https://are.na) channel to local list (maybe with [Dropout](https://github.com/jondashkyle/dropout)?)
