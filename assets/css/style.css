@@ -134,29 +134,12 @@ thead th.sorting-desc span:before {
 }
 
 .two {
-	width: 6%;
+	width: 10%;
 }
 
 .three {
 	width: auto;
 }
-
-.four {
-	width: 4%;
-}
-
-tbody .four {
-	visibility: hidden;
-}
-
-.forget, .crime, .horrible, .terrible, .meh, .ok {
-	color: #c7c7c7;
-}
-
-/*
-.good, .verygood, .premium {
-	color: #1358ff;
-} */
 
 @media screen and (min-width: 1501px) {
   body, html { 
